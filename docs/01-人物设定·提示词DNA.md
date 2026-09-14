@@ -18,6 +18,7 @@
 | G | 苗寨首领甲 | 55 | 功能配角 | E7 | 1 套 |
 | H | 苗家小孩阿禾 | 7 | 情绪支点 | E4、E5、E8 | 1 套 |
 | I | 钦差 | 45 | 功能配角 | E7 | 1 套 |
+| J | 杨守义（东山侗族杨氏领头人） | 42 | 苗侗盟友 / 守寨与送信链条 | E6–E7 | 1 套 |
 
 ---
 
@@ -261,7 +262,7 @@ both wrists with chains dragging on the floor; extremely weakened, slumped again
 - **一句话**：一封通敌密信落在杨文广手里，所以杨文广必须死。
 - **性格**：阴鸷、体面、绝不动怒。他从不咆哮，越狠的命令说得越轻。
 - **动机**：不是"嫉妒忠良"这种薄动机，而是**自保**——杨文广握有他暗通侬智高的密信，这是灭族之罪。
-- **惩罚落点**：E7 苗寨联名上书 + 密信呈堂 → 革职查办 → 流放三千里。
+- **惩罚落点**：E7 苗侗盟书 + 通敌原件 + 伪令印证 → 革职收押 → 案结后流放三千里。
 - **出场量**：极少（E4 闪回 1 镜、E7 两镜），但每次出场必须**冷**。反派靠"少而准"立住。
 
 ## D2 提示词宏 `{{庞太尉}}`
@@ -329,19 +330,48 @@ holding an ivory tablet; expression utterly calm with a faint cold smile
 双手高举展开一卷明黄色圣旨，身后两名执旗侍卫
 ```
 
+# J · 杨守义（东山侗族杨氏领头人，E6–E7）
+
+> **人物定位**：东山侗族杨氏族人的领头人。接到金花以乌饭叶和“杨”字血书发出的求援信后，带侗家青壮、弓弩手和熟悉山北密道的脚夫赶到上堡。其功能不只是“多一队援兵”，而是补上两条关键因果：**谁守住山北隘口、谁把通敌原件送出包围。**
+>
+> **艺术说明**：东山侗族杨氏参与守寨、送信属于本剧为强化苗侗团结主题而作的艺术化情节，不作为确切史实陈述。
+
+**外貌与服装：**
+```
+42岁北宋侗族杨氏领头人杨守义，身高178cm，肩宽背直，长方脸，颧骨高，
+浓眉深眼，右侧眉骨有一道短旧疤，皮肤黝黑粗糙，短须修整齐整；
+黑发束成低髻，外包一块深青色侗布头帕；
+身穿黑青色右衽侗布长衣，衣襟与袖口镶窄红布边，腰束深红织锦腰带，
+下着宽腿黑布裤与草编护胫，脚穿黑布鞋；
+左肩斜背竹弩与箭囊，腰挂短刀、铜制号角和一只防水油布信筒；
+神情沉稳少言，拱手时脊背挺直，站姿像山口的一块岩石
+```
+
+**English：**
+```
+YANG SHOUYI, a 42-year-old Dong-clan leader from Dongshan, 178cm, broad-shouldered,
+long rectangular face with high cheekbones, heavy brows, deep-set eyes, a short old scar
+over the right brow, weathered dark-tan skin, neatly trimmed short beard;
+black hair in a low knot wrapped in a dark teal Dong-cloth headscarf;
+wearing a black-teal right-lapel long tunic edged with narrow red trim, a dark red woven sash,
+loose black trousers, woven shin guards and black cloth shoes;
+a bamboo crossbow and quiver slung over his left shoulder, short knife, bronze signal horn,
+and a waterproof oilcloth document tube at his waist; quiet, steady, rock-like posture
+```
+
 ---
 
 ## 附：全片角色出场矩阵
 
-| 集 | 林晓 | 金花 | 文广 | 庞太尉 | 苗医 | 狱卒 | 首领 | 阿禾 | 钦差 |
-| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| E1 | ● | ●B-1 | | | | | | | |
-| E2 | ● | ●B-2 | | | | ● | | | |
-| E3 | ● | ●B-2 | ●囚 | | | ● | | | |
-| E4 | ● | ●B-3 | ●战 | ○闪回 | | ● | | ● | |
-| E5 | ● | ●B-4 | ●战→归 | | ● | | | ● | |
-| E6 | ● | ●B-4 | ●归 | | | | | | |
-| E7 | ● | ●B-5 | ●归 | ● | | | ● | | ● |
-| E8 | ● | ○幻影 | | | | | | ○现代呼应 | |
+| 集 | 林晓 | 金花 | 文广 | 庞太尉 | 苗医 | 狱卒 | 首领 | 阿禾 | 钦差 | 杨守义 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| E1 | ● | ●B-1 | | | | | | | | |
+| E2 | ● | ●B-2 | | | | ● | | | | |
+| E3 | ● | ●B-2 | ●囚 | | | ● | | | | |
+| E4 | ● | ●B-3 | ●战 | ○闪回 | | ● | | ● | | |
+| E5 | ● | ●B-4 | ●战→归 | | ● | | | ● | | |
+| E6 | ● | ●B-4 | ●归 | | | | | | | ○信使伏笔 |
+| E7 | ● | ●B-5 | ●归 | ● | | | ● | | ● | ● |
+| E8 | ● | ○幻影 | | | | | | ○现代呼应 | | |
 
 （● 实体出场 ／ ○ 闪回或幻影）

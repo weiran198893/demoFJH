@@ -102,92 +102,257 @@ shoulder bag, off-white upturned-toe embroidered shoes; slender build
 
 ## B1 人物小传（表演内核）
 
-- **一句话**：北宋杨家将后人，绥宁苗家姑娘，用一碗最丑的饭，救了最亮的忠魂。
+- **一句话**：北宋杨家将后人，绥宁苗家未婚姑娘，用一碗最丑的饭，救了最亮的忠魂。
 - **性格**：**外柔内刚**。日常声音轻柔、语速慢、动作细致；一旦决断，眼神先变，声音才变。
-- **说话方式**：短句、实词多、不抒情。她的台词几乎没有形容词，全是动词和名词——这是"做事的人"的语言。唯一一次抒情是 E7 遗言。
+- **说话方式**：短句、实词多、不抒情。她的台词几乎没有形容词，全是动词和名词。唯一一次抒情是倒下前的遗言。
 - **动机层级**：
   1. 表层：救哥哥。
   2. 中层：不让忠良蒙冤，不让苗寨被牵连。
-  3. 底层：苗家女子的骨血——"我们不靠力气赢，我们靠命和智"。
-- **成长弧线**：哭泣的妹妹（E1）→ 以智破局的奇女子（E2–E3）→ 护民的领袖（E4–E6）→ 立节的英雄（E7）。
-- **表演基调**：**"三不"**——不喊叫、不瞪眼、不夸张。所有力量藏在**下颌绷紧**和**呼吸节奏**里。最狠的一句台词要用最平的语气说。
-- **标志性动作（全片重复 3 次，形成记忆点）**：**用拇指摩挲银簪尾端**——每次做重大决定前的无意识小动作。E2 决定制乌饭、E6 决定召集首领、E7 上书前，各一次。
+  3. 底层：苗家女子的骨血——“我们不靠力气赢，我们靠命和智”。
+- **成长弧线**：哭泣的妹妹（E1）→ 以智破局的奇女子（E2–E3）→ 护民的领袖（E4–E6）→ 立节的英雄（E7–E8）。
+- **表演基调**：**“三不”**——不喊叫、不瞪眼、不夸张。力量藏在下颌绷紧和呼吸节奏里。
+- **标志性动作**：做重大决定前，用拇指摩挲杨桐叶银簪尾端。E2 制乌饭、E6 发信东山、E7 盟书前，各一次。
 
 ## B2 外貌 DNA（不可变部分）
 
-| 项目 | 设定 |
-| --- | --- |
-| 身高体型 | 162cm，肩背挺直，腰细，常年劳作的紧实感（**不是柔弱的骨感**） |
-| 脸型 | 瓜子脸，颧骨略高，下颌线清晰 |
-| 眼睛 | 丹凤眼，眼尾上扬，内双，瞳色深黑，**眼白干净**，眼神沉静 |
-| 眉毛 | 远山眉，眉形柔和舒展，眉色浓黑 |
-| 鼻唇 | 鼻梁挺直，鼻头小；唇形偏薄，唇色浅樱，**素唇不点绛** |
-| 皮肤 | 健康麦色偏暖，山野气，脸颊有淡淡的高原红 |
-| 妆容 | 素颜感，无眼影无口红，只强调皮肤质感与眉眼轮廓 |
-| 特征点 | 左耳后方一道浅浅的旧疤（幼年上山采药所留，全片一致性识别点） |
-| 手部 | 手指细长但指腹有薄茧，指甲短而干净 |
+| 项目 | 锁定写法 | 不要写成 |
+| --- | --- | --- |
+| 年龄体型 | 20 岁，162cm，肩背挺直，腰细，小臂和指腹有薄茧，是常年上山的紧实感 | 骨感网红、大长腿、丰胸细腰漫画体 |
+| 脸型 | 偏窄的瓜子脸，颧骨略高，下颌线清楚但不尖 | 圆脸、锥子下巴、网红窄下颌 |
+| 眼睛 | 细长丹凤眼，内双，眼尾微微上扬，瞳色深黑，眼神沉静 | 大双眼皮、猫眼、美瞳高光、含泪桃花眼 |
+| 眉毛 | 远山眉，眉头舒、眉尾长，浓黑但不画眉 | 柳叶细眉、平眉、修过的欧式眉 |
+| 鼻唇 | 鼻梁直、鼻头小；唇薄，浅樱色素唇，不点绛、不涂口红 | 厚唇、大红唇、渐变唇 |
+| 皮肤 | 健康暖麦色，山风晒过的质感，两颊只有极淡的高原红 | 冷白皮、奶油肌、浓妆、修容阴影 |
+| 耳部 | 左耳后有一道浅旧疤，**必须露耳**，不戴耳环、不戴耳柱 | 大耳环、银耳坠、遮耳假发 |
+| 手 | 手指细长，指腹有薄茧，指甲短而干净 | 美甲、细白无茧的手 |
 
-## B3 发型与银饰（湘西南绥宁花苗样式）
+## B3 服饰考据与形制锁定（解决头饰、服装怪异）
 
-**发型**：黑发高盘于头顶偏后，盘成**螺旋盘髻**，用一根**素银长簪**横贯固定；额前正中留一缕自然分开的碎发；耳侧各垂一小绺发丝。
+> 依据包汝楫《南中纪闻》绥宁见闻、清同治《绥宁县志》、以及当代四八姑娘节现场记录来锁形制。剧中她是**未婚苗家姑娘**，所以用“便装干活 + 节日加银”两档，不用已婚妇人的大包头。
 
-**头饰**（**绥宁花苗样式，简约，禁用黔东南大银角**）：
-- 一顶窄边**银冠额圈**，圈上錾刻蝴蝶妈妈与稻穗纹，正中一枚小银蝶
-- 额圈两侧各垂 3 串**细银铃流苏**，走动时轻响（**AI 视频的运动与声音锚点**）
-- 素银簪一支（尾端为杨桐叶造型，**核心道具**）
+### B3.1 头与发：只插银，不戴冠
 
-**服装（常态）**：
-- 上衣：**靛蓝蜡染右衽交领短衣**，衣长及胯，窄袖，袖口与衣襟镶一道白底蓝纹蜡染宽边（纹样：漩涡纹 + 蝴蝶纹）
-- 围腰：靛蓝底、彩线挑花围腰，系于腰前，两条编织彩带在身后打结垂下
-- 下裙：靛蓝百褶裙及小腿，褶密而挺
-- 绑腿：小腿缠靛蓝布绑腿，脚穿黑布纳底鞋
-- 银饰：**三层银项圈**（细圈，非厚重款）、双腕各一只素银镯、无耳环（耳后有旧疤，需露耳）
+史料写绥宁苗女“**头髻偏挽右傍，顶上插一银牌为饰**”；未嫁姑娘**不用**青帕缠成的“大包头”。四八姑娘节现场常见的是**银簪、银梳、三五束银桐花**，不是黔东南的大银角。
 
-**道具**：
-- **竹篮**（送饭用，篮口盖一块靛蓝土布）
-- **竹篓**（采叶用，背在身后，篓里露出青绿枝叶）
-- **杨桐叶**（深绿卵形叶，叶脉清晰）
-- **银簪**（可作发簪、可作短刃、可作信物 —— 三重功能）
-- **石臼与木杵**（E2 捣叶）
+| 部件 | 正确形制 | 尺寸与位置 | 绝对禁止 |
+| --- | --- | --- | --- |
+| 发式 | 满头黑发向右后方偏挽，在右后脑勺收成一个**扁圆低髻**，不是竖在头顶的高塔髻 | 发髻中心大约在右耳后上方，直径约 10–12cm，紧贴头皮 | 高耸螺旋塔髻、假发发包、散发披肩（伤后态除外） |
+| 银牌 | **一块扁平长方素银牌**竖直插在发髻顶 | 高约 4–5cm，宽约 2cm，牌面浅錾一枚小蝴蝶或稻穗，只有这一块 | 一圈银冠、额箍、银帽、银围帕 |
+| 银簪 | **一支**杨桐叶素银长簪，从发髻左侧横贯到右侧，露出叶形簪首 | 簪长约 18cm；叶形簪首约 3cm；簪尾可挂 **2 粒**小银铃 | 多支交叉乱插、步摇、珠翠、绒花 |
+| 银梳 | **一把**半月形小银梳，梳背朝上，插在发髻外侧 | 梳宽约 6cm，只露出梳背，不竖成扇面 | 巨大银扇、银雀、银角、凤冠 |
+| 额与帕 | 额头全露，发际线干净；日常**不包头帕** | 额前可留两缕薄碎发，耳侧各一绺 | 青帕大包头、盖头、帷帽、刘海帘 |
+| 盛装加码 | 仅在 B-5：发髻上再插 **3 束**银桐花，花枝短、会轻颤 | 每束高不超过 8cm，共三束，呈小簇，不遮脸 | 满头银花堆成花冠、左右对称大银角 |
 
-## B4 提示词宏 `{{金花}}`（常态·白天）
+**声音锚点改到簪尾两粒小银铃**，不要再用“额圈两侧各三串流苏”——那一组最容易被模型画成怪异头冠。
+
+### B3.2 衣服：齐腰短衣 + 细褶短裙
+
+史料写绥宁苗女“**上衣齐腰，亦俱花绣**”，下装为“**细褶短裙**”；清代常见无领梅条花边对襟衣或大襟上衣，腰束**宽扁织花带**。插绣纹样以水波、山脉、太阳、蝴蝶为主，布料是家织靛蓝。
+
+| 部件 | 正确形制 | 尺寸与位置 | 绝对禁止 |
+| --- | --- | --- | --- |
+| 上衣 | 靛蓝家织布**无领大襟齐腰短衣**，斜襟用布带系住，不是盘扣汉服 | 衣长只到胯骨上沿，约到腕骨上一掌；袖窄，袖口宽约 8–10cm | 齐胸襦裙、大袖交领汉服、拖地长袍、立领旗袍、对襟唐装成衣 |
+| 衣缘 | 襟边、袖口、下摆各一道 **3–4cm** 白底蓝纹蜡染 / 插绣边 | 纹样只用：水波纹、山脉纹、太阳星芒、小蝴蝶。蓝白或靛蓝加极少量白 | 龙凤彩绣满襟、牡丹锦缎、金线盘龙 |
+| 下裙 | **细密百褶短裙**，靛蓝色，褶很密、裙形挺 | 裙长到小腿中部，露出绑腿；不是及地长裙 | 齐胸长裙、鱼尾裙、开叉裙、现代百褶超短裙 |
+| 腰带 | 一条宽扁织花布带，在腰后打结，带尾下垂约 30cm | 带宽约 6–8cm，纹样几何，颜色以靛蓝、浅赭、牙白为主 | 大红绸腰带、玉带、汉服大带 |
+| 围腰 | 可选一块小巧挑花围腰，只护住小腹到大腿上沿 | 宽约一掌，不要长过膝盖 | 长到脚面的围裙、日式前挂 |
+| 绑腿与鞋 | 小腿缠青靛蓝布绑腿，脚穿黑布纳底鞋 | 绑腿平整，不松垮 | 赤足特写、绣花弓鞋、高跟、长筒靴 |
+| 斗篷 | 仅 B-3：深靛蓝短斗篷，长度只到腰 | 无帽子、无毛领 | 带帽斗篷、红色披风、盔甲斗篷 |
+
+### B3.3 银饰：少、薄、贴身
+
+| 部位 | 日常 B-1 / B-2 | 盛装 B-5 | 不要 |
+| --- | --- | --- | --- |
+| 头 | 银牌 + 叶簪 + 小银梳 | 再加 3 束银桐花 | 银角、银扇、凤冠、额圈、盖头银片 |
+| 颈 | **两圈**细银项圈，贴颈，不厚 | **三圈**细银项圈，仍贴颈 | 五层以上、羊角项圈、粗重 fort 项圈 |
+| 胸 | 无银衣片 | 可加一条细银链压在衣襟，链上只有小铃 | 满襟银泡钉、银压领大片、银衣甲 |
+| 手 | 双腕各一只素圆银镯 | 同左，可略亮 | 多层手钏、戒指堆、美甲 |
+| 耳 | 不戴 | 不戴 | 任何耳饰 |
+
+### B3.4 出图时必加的禁止句（中英各贴一次）
+
+**中文禁止：**
+```
+不要银角，不要牛角银冠，不要银扇，不要凤冠，不要步摇，不要额箍银圈，
+不要包头帕，不要盖头，不要汉服齐胸襦裙，不要大袖交领长袍，
+不要拖地长裙，不要满身银泡，不要浓妆，不要现代时装
+```
+
+**English negative：**
+```
+no Miao silver horns, no ox-horn headdress, no silver fan crown, no phoenix coronet,
+no forehead tiara, no circlet, no veil, no wrapped turban, no chest-high hanfu ruqun,
+no wide water sleeves, no floor-length gown, no armor of silver studs,
+no heavy makeup, no modern fashion
+```
+
+## B4 提示词宏 `{{金花}}`（B-1 常态 · 白天干活）
+
+**中文（整段替换）：**
+```
+20岁湘西南绥宁苗族未婚姑娘杨金花，162cm，肩背挺直，腰细，小臂有劳作薄茧；
+偏窄瓜子脸，颧骨略高，细长丹凤眼内双，眼尾微微上扬，深黑瞳孔，眼神沉静；
+远山眉浓黑舒展，鼻梁直，薄唇浅樱色素唇，健康暖麦色皮肤，两颊只有极淡红晕，完全素颜；
+左耳后有一道浅旧疤，耳朵外露，不戴任何耳饰；
+满头黑发向右后方偏挽，在右后脑勺收成一个扁圆低髻，紧贴头皮，不是高塔髻；
+发髻顶竖直插一块扁平长方素银牌，发髻中横贯一支杨桐叶形素银长簪，簪尾只挂两粒小银铃，
+发髻外侧插一把半月形小银梳，梳背朝上；额头全露，只有两缕薄碎发，不包头帕，不戴银冠；
+身穿靛蓝家织布无领大襟齐腰短衣，衣长只到胯骨，窄袖，襟边袖口下摆各有一道三四厘米宽的
+白底蓝纹蜡染边，纹样只有水波、山脉、太阳和蝴蝶；
+腰束一条宽扁靛蓝织花带，腹前一块短挑花围腰；下着细密靛蓝百褶裙，裙摆只到小腿中部；
+小腿缠青靛蓝绑腿，脚穿黑布纳底鞋；颈上只戴两圈细银项圈，双腕各一只素圆银镯；
+站姿挺拔，神情沉静，像会干活的山里姑娘
+```
+
+**English（整段替换）：**
+```
+YANG JINHUA, a 20-year-old unmarried Miao girl from Suining in southwest Hunan, 162cm,
+upright shoulders, slim waist, light work-calluses on her fingers;
+narrow oval face, slightly high cheekbones, slim phoenix eyes with inner double lids,
+deep black irises, calm gaze, long soft dark brows, straight nose, thin pale-cherry lips,
+no makeup, warm wheat-tan skin with only a faint blush;
+a faint old scar behind the left ear, ears visible, no earrings;
+black hair combed and coiled to the RIGHT-BACK of the head into a low flat round bun
+close to the scalp, NOT a tall tower bun;
+ONE flat rectangular silver plaque inserted vertically on top of the bun,
+ONE tung-leaf-shaped silver hairpin through the bun with only TWO tiny silver bells at the tail,
+ONE small crescent silver comb on the outer side of the bun, comb-back facing up;
+bare forehead, two thin wisps only, NO headscarf, NO silver crown, NO horns;
+wearing a waist-length collarless indigo homespun side-fastening jacket, hem stopping at the hip bones,
+narrow sleeves, 3-4cm white-and-blue batik trim of waves, mountains, sun and butterflies;
+a wide flat woven sash, a short embroidered apron; a fine-pleated indigo skirt ending at mid-calf;
+indigo cloth leg wraps, black cloth shoes; TWO thin silver neck rings only, one plain silver bangle on each wrist;
+upright, quiet, a working mountain girl
+```
+
+## B5 五套状态：整段提示词（不要只靠“追加一句”）
+
+出参考图时，每一套都用下面的**完整段落**，不要先贴 B-1 再临时加词，以免头饰叠两层。
+
+### B-1 常态（E1，以及伤愈后的日常）
+
+直接使用 B4。可背空竹篓或提竹篮，篮口盖靛蓝土布。
+
+### B-2 夜采态（E2、E3）
 
 **中文：**
 ```
-20岁北宋苗族少女杨金花，瓜子脸，颧骨略高，丹凤眼内双眼尾上扬，瞳色深黑眼神沉静，
-远山眉浓黑舒展，鼻梁挺直，薄唇浅樱色素唇，健康麦色皮肤带淡淡高原红，素颜，
-左耳后有一道浅浅旧疤；黑发高盘成螺旋发髻，一根素银长簪横贯固定，额前留一缕碎发；
-戴湘西南花苗窄边银冠额圈，錾刻蝴蝶与稻穗纹，两侧各垂三串细银铃流苏；
-身穿靛蓝蜡染右衽交领短衣，袖口衣襟镶白底蓝纹蜡染宽边，
-系彩线挑花围腰，着靛蓝百褶裙及小腿，小腿缠靛蓝绑腿，黑布纳底鞋；
-颈戴三层细银项圈，双腕素银镯；身姿挺拔，肩背笔直，162cm
+同一位杨金花，仍是右后脑扁圆低髻、银牌、杨桐叶银簪、小银梳，不戴银冠不包头帕；
+仍穿靛蓝无领大襟齐腰短衣和及小腿的细褶裙；
+深夜山林，衣肩和袖口被露水打湿变成更深的靛蓝，裙摆沾泥，
+额角碎发被汗贴住，指尖与掌心染满青绿色杨桐叶汁；
+背后背着装满青绿枝叶的高竹篓，篓绳勒在双肩；神情专注急切
 ```
 
 **English：**
 ```
-YANG JINHUA, a 20-year-old Song-dynasty Miao girl, oval-diamond face with slightly high
-cheekbones, phoenix eyes with upturned outer corners and monolid-crease, deep black irises,
-calm steady gaze, soft dark distant-mountain eyebrows, straight nose, thin pale-cherry lips,
-no makeup, healthy warm tan skin with faint natural blush, a faint old scar behind her left ear;
-black hair coiled into a high spiral bun fixed by a plain silver hairpin, one loose strand on the forehead;
-wearing a narrow Hunan-Miao silver forehead crown engraved with butterfly and rice-grain motifs,
-three strands of tiny silver bell tassels hanging on each side;
-dressed in an indigo batik right-lapel cross-collar Miao jacket with white-and-blue batik trim,
-an embroidered waist apron, an indigo pleated skirt to mid-calf, indigo leg wraps, black cloth shoes;
-three thin silver neck rings, plain silver bracelets; upright posture, strong slender build
+the same YANG JINHUA, low right-back bun with one silver plaque, one leaf hairpin, one small silver comb,
+NO crown; waist-length indigo jacket and mid-calf pleated skirt;
+night forest, shoulders darkened by dew, muddy hem, sweat-stuck wisps at the temples,
+fingertips stained green with leaf juice; a tall bamboo back-basket full of green leaves;
+focused, urgent
 ```
 
-## B5 五套状态表（**必须分别出参考图**）
+### B-3 血战态（E4）
 
-| 状态码 | 集数 | 具体变化 | 追加提示词 |
-| --- | --- | --- | --- |
-| **B-1 常态** | E1、E7后半 | 见 B4 标准 | — |
-| **B-2 夜采态** | E2、E3 | 深夜山林，衣肩被露水打湿变深色，裙摆沾泥，指尖与手掌染上**青绿色叶汁**，鬓边碎发被汗贴在额角，背竹篓 | `衣肩被露水打湿颜色变深，指尖与掌心染满青绿色树叶汁液，额角碎发被汗水贴住，背着装满青绿枝叶的竹篓，夜色中银铃微光` |
-| **B-3 血战态** | E4 | 外披一件深靛蓝短斗篷，右肩至后背有箭伤血迹晕染（**暗红，不鲜艳，不喷溅**），左颊一道细血痕，发髻散乱垂下一绺，银铃有一串断落 | `深靛蓝短斗篷，右后背衣料暗红色血迹晕染，左脸颊一道细血痕，发髻散乱一绺黑发垂落，一串银铃流苏断裂` |
-| **B-4 伤后态** | E5、E6 | 素白中衣外披靛蓝薄衫，肩背缠白色苎麻绷带（**绷带从右肩斜绕**），面色苍白无血色，唇色更浅，眼下淡青，发只用银簪松松挽起**不戴银冠** | `外披靛蓝薄衫，内着素白中衣，右肩斜绕白色苎麻绷带，面色苍白无血色，唇色发白，眼下淡青，长发只用银簪松松挽起，未戴银冠，虚弱但眼神明亮` |
-| **B-5 盛装态** | E7 | 全套花苗盛装：银冠 + 五层银项圈 + 银压领 + 满襟银泡钉，靛蓝蜡染礼服外罩绣花对襟长褂，红色织锦腰带，**面色仍苍白**（伤未愈的悲壮感） | `全套湘西南花苗盛装，银冠、五层银项圈、银压领、满襟银泡钉，靛蓝蜡染礼服外罩彩绣对襟长褂，红色织锦腰带，银饰在阳光下闪烁，面色苍白但神情庄严坚定` |
+**中文：**
+```
+同一位杨金花，发髻被扯乱，右后脑低髻松了一半，一绺黑发垂到左肩，
+银牌还在，杨桐叶银簪还在，小银梳歪斜，簪尾两粒银铃只剩一粒；
+外披一件只到腰的深靛蓝短斗篷，无帽无毛领，斗篷下仍是齐腰短衣和细褶裙；
+右后背衣料有暗红色血迹晕染，不喷溅、不鲜血红；左脸颊一道细血痕；
+下颌绷紧，眼神决绝，没有怒容
+```
 
-> **关键提醒**：B-5 盛装态**必须保留苍白脸色**。这是 E7 情绪反转（盛典—倒下）的视觉伏笔，不能被"美化"掉。
+**English：**
+```
+the same YANG JINHUA, the low bun half loosened, one lock of hair fallen to the left shoulder,
+silver plaque still in, leaf hairpin still in, the small comb askew, only one tiny bell left;
+a waist-length deep-indigo cloak with no hood, the short jacket and mid-calf pleated skirt still visible;
+a dull dark-red blood stain on the right back, no spray, no bright gore; a thin scrape on the left cheek;
+jaw tight, resolute, not snarling
+```
+
+### B-4 伤后态（E5、E6）
+
+**中文：**
+```
+同一位杨金花，不戴银牌、不戴银梳、不戴银冠，只把黑发用那支杨桐叶银簪松松挽在右后脑，
+几缕散发垂在颊边，耳朵外露；
+内着素白窄袖中衣，外披一件松垮的靛蓝薄短衫，衣长仍不过胯；
+白色苎麻绷带从右肩斜绕到左肋，结在身侧；
+面色苍白无血色，唇更浅，眼下淡青，两圈细银项圈还在，银镯还在；
+虚弱，但眼睛仍亮
+```
+
+**English：**
+```
+the same YANG JINHUA, NO silver plaque, NO comb, NO crown; hair loosely pinned at the right-back
+with only the tung-leaf silver hairpin, a few strands on her cheek, ears visible;
+plain white inner tunic, a loose waist-length indigo overshirt;
+white ramie bandage slashing from the right shoulder to the left ribs;
+ashen face, paler lips, faint blue under the eyes; two thin neck rings and bracelets remain;
+weak, eyes still bright
+```
+
+### B-5 盛装态（E7、E8 会盟）
+
+**中文：**
+```
+同一位杨金花，右后脑仍是扁圆低髻，不是高塔髻；
+发髻顶仍是那一块银牌，横贯那一支杨桐叶银簪，外侧仍是一把小银梳，
+另外只加三束短枝银桐花插在发髻上，花枝轻颤，完全不遮脸；
+额头仍全露，不包头帕，不戴银角，不戴凤冠，不戴额箍；
+上衣仍是靛蓝无领大襟齐腰短衣，只把襟边袖口的插绣加亮，外不加长褂；
+细褶裙仍只到小腿中部，腰带换成一条略新的宽扁织花带；
+颈上三圈细银项圈，衣襟上多一条细银链，链上只有小铃，没有满襟银泡；
+面色仍然苍白，神情庄严，伤未痊愈
+```
+
+**English：**
+```
+the same YANG JINHUA, still a low flat bun at the right-back of the head, NOT a tall bun;
+ONE silver plaque, ONE leaf hairpin, ONE small silver comb, plus only THREE short sprays
+of silver paulownia flowers trembling on the bun, never covering the face;
+bare forehead, NO turban, NO silver horns, NO phoenix crown, NO circlet;
+the same waist-length collarless indigo jacket with brighter wave-and-butterfly trim,
+NO long outer gown; the same mid-calf fine-pleated skirt; a slightly newer woven sash;
+THREE thin silver neck rings, one thin silver chain with tiny bells on the placket,
+NO studded silver armor coat; face still pale, solemn, not yet recovered
+```
+
+> **B-5 必须留苍白脸色。** 这是会盟后倒下的视觉伏笔，不能被“盛装美颜”洗掉。
+
+## B6 参考图拍摄清单（先锁头和衣，再出全身）
+
+按这个顺序出图，同一套 `--sref` / 同一张人脸参考，不要中途换模型：
+
+1. **正面头肩**：只验证发髻在右后脑、银牌、叶簪、小银梳、露额、露耳后浅疤。
+2. **右侧 45° 头肩**：确认发髻偏右，不是居中高髻。
+3. **背面头肩**：确认没有第二圈头饰、没有包帕。
+4. **腰部特写**：确认衣长停在胯骨，腰带扁平，裙褶细密。
+5. **全身站立**：确认裙到小腿中部、绑腿、项圈只有两圈。
+6. 通过后再派生 B-2 至 B-5，每套重复 1 和 5。
+
+## B7 常见崩坏对照
+
+| 生成结果 | 原因 | 立刻怎么改 |
+| --- | --- | --- |
+| 头上长出一对大银角 / 银扇 | 模型把“苗族银饰”默认成黔东南盛装 | 提示词删掉一切“冠、额圈、盛装银衣”，并贴 B3.4 禁止句 |
+| 头顶一个高塔发髻 | “盘髻 / spiral bun”被理解成竖起来 | 改写为“右后脑扁圆低髻，紧贴头皮” |
+| 穿上齐胸汉服长裙 | “古装少女”默认汉服 | 写死“无领大襟齐腰短衣 + 裙摆只到小腿中部” |
+| 满胸银泡甲 | “盛装”被理解成银衣 | B-5 只加三束银桐花和一圈项圈，明确“没有满襟银泡” |
+| 包着青布大头帕 | 模型套用已婚妇人“黔乌”包头 | 写明“未婚姑娘，额头全露，不包头帕” |
+| 浓妆冷白皮 | 默认古风美女 | 写死“暖麦色、完全素颜、薄唇浅樱” |
+
+**道具（不改形制，只跟服装配套）：**
+- 竹篮：送饭，篮口盖靛蓝土布
+- 竹篓：采叶，高背篓
+- 杨桐叶：深绿卵形，叶脉清楚
+- 杨桐叶银簪：发簪、信物、必要时当短针
+- 石臼与木杵：E2 捣叶
+
+> **艺术说明**：北宋线无法按清以后的“大包头”复原。本片采用《南中纪闻》所记“偏挽右髻、顶插银牌、上衣齐腰”为日常骨架，再用当代绥宁四八姑娘节的银簪、银梳、银桐花作为节日加码。不做黔东南银角、银衣的跨支系拼接。
 
 ---
 

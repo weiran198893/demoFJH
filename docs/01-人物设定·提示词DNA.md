@@ -382,23 +382,29 @@ NO studded silver armor coat; face still pale, solemn, not yet recovered
 
 ## C3 三套状态与提示词
 
-**`{{文广·囚}}`（E3，牢中）**
+> Image2 / 即梦过审：牢中态**不要写**刀疤、鞭伤、战伤、血痕、撕裂露胸、木枷、铁镣、锁链、囚衣。这些词叠在一起会直接生图失败。改用「眉尾旧痕、旧麻衣、厚木颈套、腕上旧铜环、靠坐石墙」。伤和血留给后期，不要写进生图。
+
+**`{{文广·囚}}`（E3，牢中 · Image2 可过审）**
 ```
-28岁北宋武将杨文广，185cm宽肩厚背，国字脸下颌宽，浓黑剑眉入鬓，左眉尾一道3cm旧刀疤将眉毛断开，
-深眼窝，短络腮胡与凌乱胡茬，古铜色粗糙皮肤；
-黑色长发散乱披落遮住半张脸，面颊凹陷，嘴唇干裂起皮，眼神涣散无光；
-身穿破损的深褐色囚衣，衣襟撕裂，露出前胸多道结痂鞭伤与旧战伤，
-颈上戴沉重木枷，双腕铁镣，锁链垂地，脚踝有磨破的血痕；
-极度虚弱，倚靠在牢房石墙上，呼吸微弱
+参考原图为同一人，只换状态，不要换脸。
+28岁北宋武将，185cm，宽肩厚背，国字脸，下颌宽，浓黑剑眉入鬓，
+左眉尾有一道浅色旧痕，眉毛在此处断开一截，
+深眼窝，短络腮胡和凌乱胡茬，古铜色粗糙皮肤。
+黑发又长又乱，披下来遮住半张脸，面颊消瘦，嘴唇干裂，眼神涣散没有光。
+身穿深褐色旧麻布短袍，领口磨旧，衣摆脏旧，领口微开只到锁骨。
+颈上套着宽厚旧木框，双腕戴着旧铜环，靠坐在潮湿石墙边，肩背仍宽，人却很疲。
+神情疲惫坚忍，不是惊恐，不是痛苦特写。
+不要换脸，不要血腥，不要伤口特写，不要裸露，不要现代物品。
 ```
 ```
-YANG WENGUANG, a 28-year-old Song-dynasty general, 185cm, broad shoulders,
-square jaw, thick dark sword-shaped eyebrows, a 3cm old scar splitting his left eyebrow,
-deep-set piercing eyes, short stubble beard, weathered bronze skin;
-long black hair loose and disheveled covering half his face, hollow cheeks, cracked lips,
-vacant exhausted gaze; wearing a torn dark-brown prison robe, chest exposed with scabbed
-lash wounds and old battle scars, a heavy wooden cangue around his neck, iron shackles on
-both wrists with chains dragging on the floor; extremely weakened, slumped against a stone wall
+same man as the reference, another state only, do not change the face,
+28-year-old Song general, 185cm, broad shoulders, square jaw, thick dark brows,
+a pale old mark breaking the tail of the left brow, deep-set eyes, short stubble,
+weathered bronze skin, long messy black hair covering half the face,
+hollow cheeks, dry lips, empty tired gaze,
+dark-brown worn hemp robe, frayed collar opening only to the collarbone,
+a thick old wooden collar, dull copper rings on both wrists,
+sitting against a damp stone wall, exhausted but still upright in the shoulders
 ```
 
 **`{{文广·战}}`（E4，越狱血战）**

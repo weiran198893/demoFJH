@@ -1,100 +1,94 @@
 # 第四集六幕 · Midjourney 横屏提示词
 
-对应第四集突围：战前柳州城 → 文广冲牢道 → 金花率援兵杀入 → 伏兵张弓 → 箭雨 → 中箭后上马突围。
+上版失败原因：一条里塞了人名、十六人五种兵器、全套头饰，MJ 会画成群像乱炖、银角凤冠、现代兵。  
+这版每条只做**一件事**：一个主光、一个动作、人物最多占画面三分之一。
 
-一律横屏 `--ar 16:9`。戏剧战戏用武侠色块。每条中文先看，英文整段复制给 MJ。  
-不要喷血、不要断肢、不要箭头穿透。金花中箭只写衣背暗红晕和人软。
+**只复制英文灰框。** 中文是画面说明，不要贴进 MJ。  
+横屏 `--ar 16:9 --style raw --stylize 100`。raw 是为了听话，不要改回 150。  
+有金花/文广满意脸之后，在同一条末尾加 `--cref` 那张图。
 
-**金花（血战态）**：20 岁绥宁苗族姑娘，瓜子脸，丹凤眼，右后扁圆低髻，银牌，杨桐叶银簪，深靛蓝短斗篷，齐腰短衣，细褶裙到小腿。  
-**文广（战态）**：28 岁，国字脸，宽肩，散乱黑发，左眉尾浅色旧痕，深褐皮甲半臂，弧形柳叶刀。  
-**援兵**：十六名绥宁苗家青壮，靛蓝短衣绑腿，不穿宋军铠甲，不戴银角。兵器：六人火把兼柴刀，四人猎叉，四人竹弓，一人梭镖，一人牛角号。
+金花只锁这几样：靛蓝短斗篷、齐腰短衣、裙到小腿、右后低髻、一根细银簪、露额头。  
+文广只锁：国字脸、散乱长发、深褐皮甲、弧形佩刀。  
+援兵是背景色块，不要点名人数和兵器清单。
 
 ---
 
 ## 第一幕 · 柳州古城战前
 
-不是空城。城头有更夫和巡逻，巷里有灯，只是还没起火。
+画面：俯瞰全城。人要有，但必须很小。还没起火，颜色先冷。
 
-**中文**
-```
-电影级武侠静帧，大色块，大面积留白，35mm胶片颗粒，横屏大远景俯瞰北宋柳州古城子夜，厚重城墙与高大城楼，黑瓦屋顶层层叠叠，城头三四个守军持戈缓行，城楼上一名更夫敲鼓，屋檐灯笼轻晃，一条青石巷里两名巡夜兵提灯走过，几扇木窗透出灯火，天上一轮惨白冷月，薄云掠过，冷月白与玄黑，饱和度低，安静却有人，暴风雨前
-```
+**中文说明**  
+子夜俯瞰柳州城。城墙、城楼、黑瓦海。城头几个持戈小黑点，城楼有人敲鼓，一条巷里两点灯火在走。冷月。不要近景人脸。
 
-**英文 · 复制给 MJ**
 ```
-cinematic wuxia film still, bold single-color grading, large negative space, 35mm film grain, aerial extreme wide shot, midnight Song-dynasty Liuzhou, heavy city walls and a tall gate tower, sea of dark-tile roofs, three or four guards walking the battlements with spears, a night watchman at the drum, lanterns under the eaves, two patrolmen with lanterns in a bluestone lane, a few windows glowing, pale cold moon, thin clouds, muted moon-white and ink black, quiet but inhabited, calm before the storm --ar 16:9 --stylize 150 --no text, watermark, modern objects, cars, streetlight
+cinematic wuxia film still, desaturated moonlight, 35mm film grain, high aerial wide shot of an ancient walled city at midnight, massive rammed-earth walls and a tall timber gate tower, a sea of dark-tile roofs, pale full moon, thin clouds, a few tiny spear guards on the battlements, one small drummer on the tower, two lantern dots moving in a stone lane, a handful of warm windows, ink black and cold moon white, quiet, people are specks --ar 16:9 --style raw --stylize 100 --no text, letters, watermark, modern objects, cars, streetlight, close-up faces
 ```
 
 ---
 
-## 第二幕 · 文广撞栏，柳叶刀冲入牢道
+## 第二幕 · 文广撞栏冲牢道
 
-**中文**
-```
-电影级武侠静帧，大色块，35mm胶片颗粒，横屏中景，北宋地下大牢走廊大乱，粗木栅栏断裂外翻，杨文广宽肩国字脸，黑发散乱，左眉尾浅色旧痕，深褐色皮甲半臂，右手握一柄弧形柳叶刀，刀身映着火光，肩撞断栏大步冲进牢道，神情凶悍冷峻不狰狞，身后火把乱晃，官兵剪影追来，石拱顶渗水，地面稻草，主光在画面右下，炭黑与火橙
-```
+画面：一个人，一个动作。侧前方中景。柳叶刀写成弧形佩刀，MJ 更认。
 
-**英文 · 复制给 MJ**
-```
-cinematic wuxia film still, bold single-color grading, 35mm film grain, medium shot, chaotic Song prison corridor, thick wooden bars broken outward, Yang Wenguang broad-shouldered square jaw, loose black hair, pale mark breaking the left brow, dark-brown leather half-armor, a curved willow-leaf saber catching torchlight, shouldering through the broken bars into the passage, fierce and cold not snarling, torches shaking behind, soldier silhouettes chasing, dripping stone vault, straw on the floor, key light from lower right, charcoal black and fire orange --ar 16:9 --stylize 150 --no text, watermark, modern objects, cars, gore
-```
+**中文说明**  
+地下牢道。断裂木栏。高大武将肩撞断栏往镜头冲，右手弧形佩刀垂在身侧。逆火把他打成半剪影。后面只有官兵剪影。
 
----
-
-## 第三幕 · 金花率十六名苗家援兵杀入
-
-**中文**
 ```
-电影级武侠静帧，大色块，35mm胶片颗粒，横屏全景，北宋柳州夜巷，青石板路，两侧木铺门板紧闭，火把把巷子照成赤红光河，杨金花冲在最前，丹凤眼沉静带锋，右后扁圆低髻，银牌与叶形银簪，深靛蓝短斗篷翻飞，齐腰短衣，细褶裙到小腿，一手火把一手柴刀，身后十六名苗家青壮：六人火把兼柴刀，四人猎叉，四人竹弓，一人梭镖，一人吹牛角号，皆靛蓝短衣绑腿，无铠甲无银角，从巷子另一端冲入，浓烟火星，远处城门楼，赤红与靛蓝
-```
-
-**英文 · 复制给 MJ**
-```
-cinematic wuxia film still, bold single-color grading, 35mm film grain, wide shot, night street in Song Liuzhou, bluestone lane, closed wooden shops, torchlight flooding the street red-orange, Yang Jinhua leading, slim phoenix eyes, low flat bun at the right-back, silver plaque and leaf hairpin, deep-indigo short cloak flying, waist-length jacket, mid-calf pleated skirt, torch in one hand, a wood-knife in the other, sixteen Miao highland fighters behind her: six with torches and chopping knives, four hunting forks, four bamboo bows, one spear, one ox-horn, indigo short coats and leg wraps, no Song armor, no silver horns, charging from the far end of the lane, smoke and sparks, gate tower in the distance, crimson versus indigo --ar 16:9 --stylize 150 --no text, watermark, modern objects, cars, silver horns, phoenix crown, gore
+cinematic wuxia film still, bold fire-orange grading, 35mm film grain, low-angle medium shot, a tall Chinese warrior bursting through broken wooden prison bars, square jaw, long loose hair, dark leather armor, a curved Chinese saber at his side catching firelight, striding toward camera, backlit by torches, soldier silhouettes far behind, wet stone vault, straw floor, charcoal and orange, one man one action --ar 16:9 --style raw --stylize 100 --no text, letters, watermark, modern objects, cars, guns, helmets
 ```
 
 ---
 
-## 第四幕 · 城门巷口伏兵张弓
+## 第三幕 · 金花率援兵杀入
 
-**中文**
-```
-电影级武侠静帧，大色块，35mm胶片颗粒，横屏全景，柳州城门巷口，高大城门楼与瓮城，包铁木门布满门钉，军旗在火光里翻，暗处十余名伏兵突然站起拉满弓，对准巷中撤退的人影，盔甲帽缨只有轮廓，草料垛在烧，浓烟火星，火光只勾出弓手侧脸一道橙边，其余沉在暗里，赤红与玄黑，弓弦将响未响
-```
+画面：金花最大，援兵是她身后一排火把。不要写十六人、不要写五种兵器。
 
-**英文 · 复制给 MJ**
-```
-cinematic wuxia film still, bold single-color grading, 35mm film grain, wide shot, city-gate alley in Liuzhou, tall gate tower and barbican, iron-studded doors, military flags in firelight, more than ten hidden soldiers suddenly standing and drawing bows full, aiming into the lane, armor only in silhouette, burning hay piles, smoke and sparks, orange rim light on the archers, the rest in deep shadow, crimson and ink black, the instant before the strings release --ar 16:9 --stylize 150 --no text, watermark, modern objects, cars, gore
-```
+**中文说明**  
+夜巷被火把照成一条红河。金花在画面左前冲来，靛蓝斗篷，裙到小腿，低髻细簪。身后一小队靛蓝短衣山民，只见火把、长矛、弓的剪影。
 
----
-
-## 第五幕 · 箭雨越过火光扑向撤退人群
-
-大远景。箭在空中。不拍中箭入肉。
-
-**中文**
 ```
-电影级武侠静帧，大色块，35mm胶片颗粒，横屏大远景，夜空中密密箭雨斜着飞过，箭羽被橙红火光照亮，下方十六名苗家援兵护着人群沿青石巷往城门退，人小如蚁，两侧燃烧草垛与翻倒货摊，浓烟遮去半轮冷月，城楼剪影压在深处，赤红火光与墨黑夜空，危急，不拍中箭特写
-```
-
-**英文 · 复制给 MJ**
-```
-cinematic wuxia film still, bold single-color grading, 35mm film grain, extreme wide night shot, a dense rain of arrows crossing the sky, fletching lit by orange fire, a small retreating group in the bluestone lane below, Miao fighters shepherding people toward the gate, burning hay and overturned stalls, smoke covering half the moon, gate-tower silhouette, crimson fire versus ink sky, urgent, no impact close-up --ar 16:9 --stylize 150 --no text, watermark, modern objects, cars, gore
+cinematic wuxia film still, bold red-orange grading, 35mm film grain, wide shot down a night stone street, closed wooden shops, a river of torchlight, a young Miao woman running toward camera in the left foreground, indigo short cloak, waist-length indigo jacket, mid-calf pleated skirt, low bun, one thin silver hairpin, bare forehead, torch raised, behind her a small band of mountain men in indigo as silhouettes with torches and spears, smoke sparks, distant gate tower, crimson versus indigo --ar 16:9 --style raw --stylize 100 --no text, letters, watermark, modern objects, cars, guns, silver horns, phoenix crown, turban, hanfu, armor
 ```
 
 ---
 
-## 第六幕 · 中箭后，文广抱金花上马突围
+## 第四幕 · 城门伏兵张弓
 
-金花已中箭，人软，不是坐直。衣背只写暗红晕，不写喷血。
+画面：弓是主体。人在暗里。巷中撤退的人只做远处小影。
 
-**中文**
+**中文说明**  
+城门楼压在深处。前景暗处一排弓手拉满弦，只有火边轮廓。箭还在弦上。
+
 ```
-电影级武侠静帧，大色块，35mm胶片颗粒，横屏中全景，杨文广含怒把已经中箭的杨金花横抱上马，他国字脸绷紧，散乱黑发，深褐皮甲，一手揽住她一手抓缰，金花软靠在他肩上，深靛蓝斗篷垂落，右后背衣料一块暗红晕，细褶裙摆搭在马侧，右后髻松了一半，叶簪还在，面色苍白，一匹深色战马扬蹄，十六名苗家援兵举火把猎叉在两侧护送，冲向燃烧的城门巷口，烟火火星，赤红夜空，决绝突围
+cinematic wuxia film still, bold red-orange grading, 35mm film grain, wide shot, a huge iron-studded city gate and timber tower, military flags, a line of Song archers in shadow in the foreground drawing longbows full toward the lane, only orange rim light on helmets and bow curves, tiny fleeing figures far down the street, burning hay and smoke, the instant before release --ar 16:9 --style raw --stylize 100 --no text, letters, watermark, modern objects, cars, guns
 ```
 
-**英文 · 复制给 MJ**
+---
+
+## 第五幕 · 箭雨
+
+画面：上半幅是箭，下半幅是小人和火。不要近人脸。
+
+**中文说明**  
+大远景。密箭斜划过橙红火光和浓烟。下面青石巷里一小群人在退，小得像蚁。
+
 ```
-cinematic wuxia film still, bold single-color grading, 35mm film grain, medium-wide shot, Yang Wenguang angrily lifting wounded Yang Jinhua onto a dark horse, square jaw tight, loose black hair, dark-brown leather armor, one arm around her, one hand on the reins, she is limp against his shoulder after being struck, deep-indigo cloak hanging, a dull dark-red stain on the back of the cloak, mid-calf pleated skirt over the saddle, bun half loosened, leaf hairpin still in, pale face, sixteen Miao fighters with torches and hunting forks escorting on both sides, charging the burning gate alley, sparks and smoke, crimson night, desperate breakout --ar 16:9 --stylize 150 --no text, watermark, modern objects, cars, gore
+cinematic wuxia film still, bold red-orange grading, 35mm film grain, extreme wide night shot, a dense diagonal rain of arrows crossing the upper frame through orange firelight and black smoke, far below a tiny group running along a stone street toward a gate tower, burning hay piles, overturned stalls, half-hidden moon, people are ants, no faces --ar 16:9 --style raw --stylize 100 --no text, letters, watermark, modern objects, cars, guns
 ```
+
+---
+
+## 第六幕 · 中箭后上马
+
+画面：马在中间。文广抱着已经软掉的金花往上放。护送的人推到背景里当火把点。不要写血、中箭、struck。
+
+**中文说明**  
+侧全景。深色战马。武将怒容把靛蓝姑娘横抱上马，她软靠他肩，斗篷后背一块暗红。远处几个火把护送。
+
+```
+cinematic wuxia film still, bold red-orange grading, 35mm film grain, medium-wide side shot, a dark horse, a tall warrior with loose hair and leather armor lifting a limp young Miao woman onto the saddle, her indigo cloak hanging, a dull dark stain on the back of the cloak, mid-calf skirt, pale face, low bun half loose, his jaw tight, a few torch-bearing men blurred in the background, burning gate alley, sparks, breakout --ar 16:9 --style raw --stylize 100 --no text, letters, watermark, modern objects, cars, guns, silver horns, phoenix crown, gore
+```
+
+---
+
+出图顺序：先出第一幕定冷色，再出第三幕定金花靛蓝，这两张做 `--sref`，其余跟上。第三、六幕必须加金花 `--cref`，第二、六幕加文广 `--cref`，否则会换脸。
